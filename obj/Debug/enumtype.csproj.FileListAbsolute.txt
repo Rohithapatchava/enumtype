@@ -1,0 +1,2 @@
+D:\Rohitha\c sharp\enumtype\enumtype\obj\Debug\enumtype.csprojResolveAssemblyReference.cache
+D:\Rohitha\c sharp\enumtype\enumtype\obj\Debug\enumtype.csproj.CoreCompileInputs.cache
